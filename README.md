@@ -61,9 +61,3 @@ The Arduino sketch includes:
    - `X` → Retrace path  
    - `T` → Start automatic obstacle avoidance mode  
    - `S` → Exit automatic mode  
-
-
-## 📌 Future Improvements
-- Add **vacuum/cleaning mechanism** to turn into a real cleaning bot  
-- Store path data in **EEPROM** for persistence after reset  
-- Add a **mobile app** with GUI controls  
